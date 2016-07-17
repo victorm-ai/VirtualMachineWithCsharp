@@ -1,4 +1,4 @@
-# Overview - Virtual machine with C#
+# Overview - Virtual machine with C sharp
 This code will help you to deploy virtual machines in Microsoft Azure using C# .Net (create, start, shut down, delete).
 
 # About the project
